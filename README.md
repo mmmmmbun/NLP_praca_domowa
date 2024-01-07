@@ -25,7 +25,10 @@ I wpisujemy nasz prompt (recenzja po portugalsku). Model ewaluuje sentyment rece
 
 Spis plików:
 s28640_praca domowa NLP - notatnik z wszystkimi modelami
+
 model_cnn.py - skrypt - model do wywoływania 
+
 Vocabulary.json, model.pth <- pliki do modelu cnn
+
 model_cnn - exec file - stworzona za pomocą pyinstaller aplikacja 
 
