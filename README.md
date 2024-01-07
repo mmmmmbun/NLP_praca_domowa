@@ -20,11 +20,12 @@ Model dla użytkownika do sprawdzania sentymentu, który osiągnął najlepsze w
 3 warstwy konwolucyjne, ze zwiększającą się liczbą filtrów (100, 125, 150) i ich rozmiarem. Warstwa dropout 0.5. Na koniec warstwa FC. Liczba słów w słowniku ograniczona do 10000.
 
 Jak odpalić interfejs dla użytkownika:
-Odpalamy plik przez terminal
-python3 cnn.app
-I wpisujemy nasz prompt (recenzja po portugalsku)
+Kliknąc plik exec model_cnn (upewnić się że wszystkie pliki sa w jednym folderze).
+I wpisujemy nasz prompt (recenzja po portugalsku). Model ewaluuje sentyment recenzji. Po każdej ewaluacji program pyta użytkownika, czy zakończyć swoje działanie.
 
 Spis plików:
 s28640_praca domowa NLP - notatnik z wszystkimi modelami
-model_cnn.py - model do wywoływania dla użytkownika
-Vocabulary.json, model.pth <- pliki do modelu dla użytkowniku
+model_cnn.py - skrypt - model do wywoływania 
+Vocabulary.json, model.pth <- pliki do modelu cnn
+model_cnn - exec file - stworzona za pomocą pyinstaller aplikacja 
+
