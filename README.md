@@ -1,5 +1,6 @@
 # NLP_praca_domowa
 Praca domowa NLP - 4 modele
+
 Zbiór danych został pobrany z https://metatext.io/datasets/b2w-reviews01 Zawiera on 130 tysięcy rekordów z ocenami produktów e-commerce zebranymi pomiędzy styczniem a majem 2018. 
 
 Embedding 100 wymiarów Word2Vec w portugalskim zaczerpnięty z  http://nilc.icmc.usp.br/nilc/index.php/repositorio-de-word-embeddings-do-nilc
@@ -13,6 +14,8 @@ Model dla użytkownika do sprawdzania sentymentu, który osiągnął najlepsze w
 
 
 Jak odpalić interfejs dla użytkownika:
+
+*pobrać cały folder z onedrive (link w zadaniu)
 
 *kliknąc plik exec model_cnn (upewnić się że wszystkie pliki sa w jednym folderze).
 
