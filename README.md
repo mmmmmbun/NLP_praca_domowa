@@ -1,4 +1,4 @@
-# NLP_praca_domowa
+# NLP_praca_domowa - język portugalski
 Praca domowa NLP - 4 modele
 
 Zbiór danych został pobrany z https://metatext.io/datasets/b2w-reviews01 Zawiera on 130 tysięcy rekordów z ocenami produktów e-commerce zebranymi pomiędzy styczniem a majem 2018. 
